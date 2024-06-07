@@ -24,7 +24,8 @@ In this project i have modified my previous chat-app project to make it more sca
 
 # Application Demo
 
-![Application Running Demo](/assets/demo.mp4)
+[![Watch the video](https://raw.githubusercontent.com/Sumit0709/chat-app-2/main/assets/thumbnail.PNG)](https://raw.githubusercontent.com/Sumit0709/chat-app-2/main/assets/demo.mp4)
+
 
 
 # Setting up cassandra 
