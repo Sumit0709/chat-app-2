@@ -24,7 +24,9 @@ In this project i have modified my previous chat-app project to make it more sca
 
 # Application Demo
 
-[![Watch the video](https://raw.githubusercontent.com/Sumit0709/chat-app-2/main/assets/thumbnail.PNG)](https://raw.githubusercontent.com/Sumit0709/chat-app-2/main/assets/demo.mp4)
+
+https://github.com/Sumit0709/chat-app-2/assets/91677852/45cfae94-b418-4844-a175-d352c804b02e
+
 
 
 
