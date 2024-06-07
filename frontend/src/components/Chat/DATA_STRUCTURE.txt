@@ -1,0 +1,21 @@
+
+const [messages, setMessages] = useState(new Map());
+messages is stored as Map(
+    key: friends mobile Number,
+    value: {
+            pending: int,
+            chat: Map(
+                key: message Id,
+                value: messageBody;
+            )
+})
+
+messageBody = {
+    sender,
+    receiver,
+    message_id,
+    sent_at,
+    received_at,
+    seen_at,
+    ...
+}
