@@ -14,17 +14,17 @@ In this project i have modified my previous chat-app project to make it more sca
 
 # Flow Diagram 
 
-## When user connects
+- ## When user connects
 ![User establish connection](/assets/user_connect.png)
 
-## When User1 sends message to User2
+- ## When User1 sends message to User2
 ![User establish connection](/assets/message.png)
 
 
 
 # Application Demo
 
-![Application Running Demo](/assets/video.webm)
+![Application Running Demo](/assets/demo.mp4)
 
 
 # Setting up cassandra 
@@ -77,6 +77,6 @@ redis:
 
 ## Steps to follow
 
-- `git clone https://github.com/Sumit0709/web-chat-2.git`
+- `git clone https://github.com/Sumit0709/chat-app-2.git`
 - run `docker-compose up` in terminal
 - cd into frontend folder and do `npm start`
